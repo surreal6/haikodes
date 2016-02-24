@@ -6,7 +6,7 @@
 
 <img align="center" width="500px" src="/lifePromise.png">
 
-<img align="center" width="500px" src="/lifePromise.max.png">
+<img align="center" width="500px" src="/lifePromise_HD.png">
 
-<img align="center" width="500px" src="/lifePromise.min.png">
+<img align="center" width="500px" src="/lifePromise_alpha.png">
 
